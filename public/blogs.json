@@ -4,7 +4,7 @@
     "course_image": "https://i.ibb.co/58VRpWs/Rectangle-2-2.png",
     "course_title": "Introduction to C ",
     "course_description": "Learn the fundamentals of C programming language.",
-    "course_price":49.99,
+    "course_price":12000,
     "credit_hours": 3
   },
   {
@@ -12,7 +12,7 @@
     "course_image": "https://i.ibb.co/R94GPch/Rectangle-2-3.png",
     "course_title": "Introduction to Algorithms",
     "course_description": "Explore the basics of algorithms and problem-solving techniques.",
-    "course_price": 59.99,
+    "course_price": 16000,
     "credit_hours": 4
   },
   {
@@ -20,7 +20,7 @@
     "course_image": "https://i.ibb.co/fSyT0tP/Rectangle-2-4.png",
     "course_title": "Introduction to C++ for DSA",
     "course_description": "Master C++ programming for data structures and algorithms.",
-    "course_price": 69.99,
+    "course_price": 16000,
     "credit_hours": 4
   },
   {
@@ -28,7 +28,7 @@
     "course_image": "https://i.ibb.co/zFqWPp5/Rectangle-3.png",
     "course_title": "Basic Data Structures",
     "course_description": "Learn essential data structures such as arrays, linked lists, and trees.",
-    "course_price": 39.99,
+    "course_price": 8000,
     "credit_hours": 2
   },
   {
@@ -36,7 +36,7 @@
     "course_image": "https://i.ibb.co/345qQYg/Rectangle-2.png",
     "course_title": "Introduction to OOP Python",
     "course_description": "Get started with object-oriented programming in Python.",
-    "course_price": 49.99,
+    "course_price": 12000,
     "credit_hours": 3
   },
   {
@@ -44,7 +44,7 @@
     "course_image": "https://i.ibb.co/C9nvPk7/Rectangle-2-5.png",
     "course_title": "Software Engineering",
     "course_description": "Explore the principles and practices of software engineering.",
-    "course_price": 79.99,
+    "course_price": 20000,
     "credit_hours": 5
   },
   {
@@ -52,7 +52,7 @@
     "course_image": "https://i.ibb.co/q9QqYzq/Rectangle-3-1.png",
     "course_title": "AWS Cloud Computing",
     "course_description": "Learn cloud computing with Amazon Web Services (AWS).",
-    "course_price": 89.99,
+    "course_price": 20000,
     "credit_hours": 5
   },
   {
@@ -60,7 +60,7 @@
     "course_image": "https://i.ibb.co/W6hXbX8/Rectangle-2-1.png",
     "course_title": "Database (MySQL)",
     "course_description": "Master MySQL database management and SQL queries.",
-    "course_price": 59.99,
+    "course_price": 16000,
     "credit_hours": 4
   },
   {
@@ -68,7 +68,7 @@
     "course_image": "https://i.ibb.co/jfsRydV/Rectangle-2-6.png",
     "course_title": "Problem-Solving Part",
     "course_description": "Enhance your problem-solving skills with real-world scenarios.",
-    "course_price": 34.99,
+    "course_price": 8000,
     "credit_hours": 2
   }
 ]

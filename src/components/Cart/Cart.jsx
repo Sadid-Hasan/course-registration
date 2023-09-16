@@ -20,7 +20,7 @@ const Cart = ({ selectedCourse }) => {
   }
   return (
     <div>
-      <div className="card w-96 bg-base-100 shadow-xl">
+      <div className="card w-96 bg-base-100 shadow-xl rounded-lg">
         <div className="card-body">
           <h1 className="card-title text-blue-500 ">Credit Hour Remaining: {remainingCreditHours} hr</h1> <hr />
           <h2 className="card-title ">Course Name</h2>

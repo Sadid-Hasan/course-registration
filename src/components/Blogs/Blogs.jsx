@@ -15,7 +15,7 @@ const blogs = () => {
     };
 
     return (
-        <div className="lg:flex">
+        <div className="justify-center p-5  ml-10 text-center lg:flex " >
             {/* Card div Start*/}
        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3 w-3/4">
             {
